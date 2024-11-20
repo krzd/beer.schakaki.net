@@ -21,18 +21,19 @@
 title: Blue Bear Beer
 email: beer@schakaki.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Blue Bear Beer
+  Home Brewery based in Christleton, Cheshire
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://beer.schakaki.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: krzd
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 minima:
-  skin: dark
+  skin: autho
   date_format: "%-d %b %Y"
   social_links:
     - { platform: untappd, user_url: "https://untappd.com/BlueBearBrew" }
