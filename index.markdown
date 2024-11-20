@@ -4,3 +4,6 @@
 
 layout: home
 ---
+![Logo](https://assets.untappd.com/site/brewery_logos_hd/brewery-551852_b07c3_hd.jpeg)
+
+Home Brewery based in Christleton, Cheshire
