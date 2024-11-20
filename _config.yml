@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: autho
+  skin: auto
   date_format: "%-d %b %Y"
   social_links:
     - { platform: untappd, user_url: "https://untappd.com/BlueBearBrew" }
