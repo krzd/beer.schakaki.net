@@ -32,7 +32,7 @@ __Base Recipe:__ None
 | Mosaic Pellets | 200g | 2017 |
 
 | Yeast |  | Date |
-| - | - | _ |
+| - | - | - |
 | Lallemand New England | 11g | Exp 03/2023 |
 
 

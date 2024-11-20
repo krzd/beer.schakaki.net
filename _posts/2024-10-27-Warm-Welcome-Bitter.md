@@ -4,7 +4,7 @@ title: Warm Welcome Bitter
 date: 2024-10-27
 categories: Bitter
 ---
-# Warm Welcome Bitter (Yeast London Collab)
+# Warm Welcome Bitter
 
 ![Label](https://assets.untappd.com/site/beer_logos_hd/beer-6063505_2d514_hd.jpeg)
 
@@ -34,8 +34,8 @@ __Base Recipe:__ Marble Brewery Bitter
 | Pacific Sunrise | 36g | 12.5% |
 | Motueka Pellets | 25g | 8.2% |
 
-| Yeast |  | |
-| - | - | _ |
+| Yeast | | |
+| - | - | - |
 | Lallemand Windsor | 11g | |
 
 
@@ -60,8 +60,7 @@ __Base Recipe:__ Marble Brewery Bitter
 
 ## Method Notes
 
-- Water: dechlorinated, pH adjusted
-- Rehydrated Yeast
+- Water: dechlorinated, filtered
 
 
 ## Schedule
