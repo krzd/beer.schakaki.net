@@ -2,7 +2,7 @@
 layout: post
 title: Floral Surprise Hazy Pale Ale (Yeast London Collab)
 date: 2024-01-10
-categories: Pale-Ale Hazy Yeast-London
+categories: Collab Yeast-London Pale-Ale Hazy
 ---
 # Floral Surprise Hazy Pale Ale (Yeast London Collab)
 

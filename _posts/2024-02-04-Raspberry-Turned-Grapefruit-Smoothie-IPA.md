@@ -2,7 +2,7 @@
 layout: post
 title: Raspberry Turned Grapefruit Smoothie IPA (Yeast London Collab)
 date: 2024-02-04
-categories: IPA Smoothie Collab Yeast-London
+categories: Collab Yeast-London IPA Smoothie
 ---
 # Raspberry Turned Grapefruit Smoothie IPA (Yeast London Collab)
 

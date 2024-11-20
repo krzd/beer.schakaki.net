@@ -2,7 +2,7 @@
 layout: post
 title: Tidal Melodies IPA
 date: 2023-11-04
-categories: IPA Collab Yeast-London
+categories: Collab Yeast-London IPA
 ---
 # Tidal Melodies IPA (Yeast London Collab)
 
