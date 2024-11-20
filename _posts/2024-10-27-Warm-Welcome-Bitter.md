@@ -4,8 +4,6 @@ title: Warm Welcome Bitter
 date: 2024-10-27
 categories: Bitter
 ---
-# Warm Welcome Bitter
-
 ![Label](https://assets.untappd.com/site/beer_logos_hd/beer-6063505_2d514_hd.jpeg)
 
 [Untappd Link](https://untp.beer/3M725)

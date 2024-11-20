@@ -4,8 +4,6 @@ title: Pumpernickel RyePA (Yeast London Collab)
 date: 2024-03-29
 categories: Collab Yeast-London IPA Rye
 ---
-# Pumpernickel RyePA (Yeast London Collab)
-
 ![Label](https://assets.untappd.com/site/beer_logos_hd/beer-5800767_8d88d_hd.jpeg)
 
 [Untappd Link](https://untappd.com/b/blue-bear-beer-pumpernickel-ryepa/5800767)

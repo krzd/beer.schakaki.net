@@ -4,8 +4,6 @@ title: Brew Club Leftovers (Yeast London Collab)
 date: 2024-05-03
 categories: Collab Yeast-London IPA
 ---
-# Brew Club Leftovers (Yeast London Collab)
-
 ![Label](https://assets.untappd.com/site/beer_logos_hd/beer-5922220_ae79a_hd.jpeg)
 
 [Untappd Link](https://untp.beer/a9MQP)
