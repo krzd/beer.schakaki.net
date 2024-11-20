@@ -32,8 +32,9 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: auto
-  social-links:
+  skin: dark
+  date_format: "%-d %b %Y"
+  social_links:
     - { platform: untappd, user_url: "https://untappd.com/BlueBearBrew" }
 
 # Exclude from processing.
