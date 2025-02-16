@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unnamed Pale Ale (Yeast London Collab)
+title: Something Borrowed, Something Brewed (Yeast London Collab)
 date: 2025-02-08
 categories: Collab Yeast-London Pale-Ale
 ---
@@ -71,5 +71,5 @@ __Base Recipe:__ Mikkeller All Other Pales Pale
 | Date | Activity | Notes |
 | - | - | - |
 | 08/02/2025 | Brew Day |  |
-| | Dry Hop |  |
+| 15/02/2025 | Dry Hop |  |
 | | Bottle |  |
