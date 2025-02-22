@@ -72,4 +72,5 @@ __Base Recipe:__ Mikkeller All Other Pales Pale
 | - | - | - |
 | 08/02/2025 | Brew Day |  |
 | 15/02/2025 | Dry Hop |  |
-| | Bottle |  |
+| 20/02/2025 | Cold Crash |  |
+| 21/02/2025 | Bottle |  |
